@@ -2,6 +2,8 @@
 Sparks Foundation Web Development Internship Project : Basic Banking System website. 
 A web application used to tranfer virtual money between multiple users and also record the banking transactions/ activities.
 
+Rajat Chauhan
+Hemal Buha
 The website has the following specification -
 1. A dummy data for upto 10 customers
 2. Customers table with basic fields such as name, email, current balance etc.
